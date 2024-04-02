@@ -4,6 +4,7 @@
     background-position: center;
     background-repeat: no-repeat;
 }
+.p{ height: 100px;}
 
 .logo{
     background-image: url("resource/logo.svg");
